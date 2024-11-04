@@ -1,3 +1,4 @@
-## Portfolio for Southy
+## Portfolio for Garrett
 -----------------------------------------------------------------------
-<a>Idk \n hi
+<br>| For Public Use idk
+<br>| Made with hardcode
